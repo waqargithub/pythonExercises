@@ -1,5 +1,8 @@
 from urllib import urlopen
 
+#Program Objective: parse a triangle of numbers and find
+#the largest sum from top to bottom.
+
 # Summary:
 # Read triangle of text and create matrix of numbers.
 # Each row of matrix holds corresponding lines of triangle.
